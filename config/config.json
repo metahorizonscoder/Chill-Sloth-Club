@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x336ad056aa90AB8342A1e7BAaaEaea3235E1D7Be",
+  "SCAN_LINK": "https://polygonscan.com/address/0x336ad056aa90ab8342a1e7baaaeaea3235e1d7be",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Chill Sloth Club",
+  "SYMBOL": "CSC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 150000000000000000000,
+  "DISPLAY_COST": 150,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/chillslothclub",
+  "SHOW_BACKGROUND": true
+}
